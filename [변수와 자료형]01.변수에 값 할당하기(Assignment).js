@@ -12,7 +12,7 @@
 새 창을 열고 F12나 cmd+option+i를 눌러서 크롬 개발자 콘솔에서 한번 연습해보기를 권합니다 :) 이제 TODO를 찾으실 수 있죠?
 */
 
-//! 문제
+//?  문제
 // 선언되어 있는 변수 course에 문자열 'code states'를 할당하세요.
 
-let course = "code state";
+let course = "code states";

@@ -33,7 +33,7 @@ let output = sum(1, 2); // 3
 
 이번에는 귀여운 runcat이 얼마나 이동했는지 알아봅시다 :)
 */
-//!문제
+//? 문제
 /*
 속력 speed , 시간 time 이 숫자로 주어졌을 때,
 이동한 거리를 변수 distance에 할당하여 리턴하는 getRunCatDistance 함수를 작성하세요.
